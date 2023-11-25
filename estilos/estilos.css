@@ -1,0 +1,58 @@
+/* Regla 1 */
+* {
+    font-size: 20px;
+}
+
+/* Regla 2 */
+hr {
+    width: 50%;
+    margin: 4px auto 0;
+    border: 1px solid black;
+}
+
+/* Regla 3 */
+img.mapa {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Regla 4 */
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+/* Regla 5 */
+h2 {
+    text-decoration: underline;
+    font-size: 30px;
+    color: blueviolet;
+}
+
+/* Regla 6 */
+img{
+    width: 500px;
+}
+
+/* Regla 7 */
+table {
+    border: 1px solid gray;
+    border-radius: 2px;
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+/* Regla 8 */
+th {
+    background-color: aqua;
+}
+
+/* Regla 9 */
+td {
+    background-color: aquamarine;
+}
+
+/* Regla 10 */
+td.valores {
+    background-color: rgb(127, 255, 234);
+}
